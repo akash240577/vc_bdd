@@ -1,0 +1,9 @@
+{
+  "name": "video-conferencing-rest-test",
+  "version": "1.0.0",
+  "description": "Integration testing for video conferencing REST",
+  "dependencies": {
+    "apickli": "latest",
+    "cucumber": "^5.1.0"
+  }
+}
